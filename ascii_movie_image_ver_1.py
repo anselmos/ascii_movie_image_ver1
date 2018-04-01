@@ -7,16 +7,16 @@ from subprocess import call
 
 
 import aalib
-import Image
+# import Image
 
 import PIL
 from PIL import ImageFont
 from PIL import Image
 from PIL import ImageDraw
+from PIL import ImageOps
 
 import imghdr
 
-import ImageOps
 
 import numpy as np
 
